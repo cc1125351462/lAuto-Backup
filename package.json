@@ -1,0 +1,26 @@
+{
+  "name": "auto-backup",
+  "version": "0.0.1",
+  "description": "set a timer for copy file & send a email to users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leixu2txtek/lAuto-Backup.git"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "xLeonard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leixu2txtek/lAuto-Backup/issues"
+  },
+  "homepage": "https://github.com/leixu2txtek/lAuto-Backup#readme",
+  "dependencies": {
+    "archiver": "^1.0.0",
+    "moment": "^2.13.0"
+  }
+}
